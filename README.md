@@ -15,7 +15,5 @@ https://docs.google.com/spreadsheets/d/11bAUi7g_xZ6w5GxMk8PvxRkrxz3_gufiKrjTFrJ8
 
 ## Utilizzo
 
-Per far partire lo script basta andare nelle toolbar in alto e cliccare sull'opzione "Articoli Subito" > "Leggi articoli venduti". 
-La prima volta chiederà di fornire l'autorizzazzione allo script per leggere le email.
-
-
+Dopo aver creato una copia del foglio, per far partire lo script basta andare sulla toolbar in alto e cliccare sull'opzione "Articoli Subito" > "Leggi articoli venduti". 
+La prima volta che si lancia lo script sarà necessario concedere le autorizzazzioni per poter leggere le email.
