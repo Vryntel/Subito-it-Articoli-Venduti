@@ -7,6 +7,8 @@ Con questo semplice script di Google Apps Script è possibile leggere tutte le e
 
 ![ScreenShot](esempio-foglio.png)
 
+![ScreenShot](analisi-dati.png)
+
 
 Foglio Google Sheets con script: 
 
